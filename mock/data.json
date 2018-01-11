@@ -1,0 +1,36 @@
+{
+    "data":
+    {
+        "chapter": "1-1",
+        "examData": [
+        {
+            "title": "判断题",
+            "lists": [
+            {
+                "list_title": "CSS 样式，边距： 10px 20px 40px 30px ；哪一个是底边距？",
+                "list_options": ["√", "×"]
+            },
+            {
+                "list_title": "CSS 样式，边距： 10px 20px 40px 30px ；哪一个是底边距？",
+                "list_options": ["√", "×"]
+            }]
+        },
+        {
+            "title": "选择题",
+            "lists": [
+            {
+                "list_title": "CSS 样式，边距： 10px 20px 40px 30px ；哪一个是底边距？",
+                "list_options": ["10px", "40px", "30px", "20px"]
+            },
+            {
+                "list_title": "CSS 样式，边距： 10px 20px 40px 30px ；哪一个是底边距？",
+                "list_options": ["10px", "40px", "30px", "20px"]
+            },
+            {
+                "list_title": "CSS 样式，边距： 10px 20px 40px 30px ；哪一个是底边距？",
+                "list_options": ["10px", "40px", "30px", "20px"]
+            }]
+        }]
+    },
+    "status": 1
+}

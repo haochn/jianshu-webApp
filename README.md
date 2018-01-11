@@ -1,2 +1,1 @@
-# jianshu-webApp
-仿写简书
+README.md
